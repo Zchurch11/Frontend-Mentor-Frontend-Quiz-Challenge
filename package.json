@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://zchurch11.github.io/Frontend-Mentor-Frontend-Quiz-Challenge/",
+  "homepage": "https://zchurch11.github.io/Frontend-Mentor-Frontend-Quiz-Challenge",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
