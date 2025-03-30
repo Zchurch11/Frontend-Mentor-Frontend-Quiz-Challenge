@@ -46,7 +46,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- [React](https://reactjs.org/) - JS library
+- React
 
 ### Continued development
 
